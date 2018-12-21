@@ -1,3 +1,0 @@
-# Myjenkins
-Learn Jenkins
-#helllo
